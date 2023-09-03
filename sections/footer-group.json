@@ -5,14 +5,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "7d8fe1bd-5aaf-4d07-a48b-362f75ebb736": {
-          "type": "image",
-          "settings": {
-            "image": "{{ shop.brand.logo }}",
-            "image_width": 140,
-            "alignment": ""
-          }
-        },
         "footer-2": {
           "type": "text",
           "settings": {
@@ -22,7 +14,6 @@
         }
       },
       "block_order": [
-        "7d8fe1bd-5aaf-4d07-a48b-362f75ebb736",
         "footer-2"
       ],
       "settings": {
