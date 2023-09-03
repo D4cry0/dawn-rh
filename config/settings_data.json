@@ -116,6 +116,7 @@
     "cart_drawer_collection": "",
     "checkout_logo_image": "shopify:\/\/shop_images\/brand-logo-inverted.svg",
     "checkout_body_background_color": "#121212",
+    "checkout_input_background_color_mode": "transparent",
     "checkout_sidebar_background_color": "#121212",
     "sections": {
       "main-password-header": {
