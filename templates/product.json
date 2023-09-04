@@ -27,6 +27,14 @@
           "settings": {
           }
         },
+        "a6fb64ed-527b-4742-9a6f-6c4e8dac6c64": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 10,
+            "show_inventory_quantity": true
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -55,6 +63,12 @@
           "settings": {
             "share_label": "Compartir"
           }
+        },
+        "9e9f9e87-a66b-4ee6-9fc5-5ea7d343671e": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{%- if product.type == 'ModelKit' -%}\nModel Kit: Requiere ensamblarse y en algunos casos detallarse.\n{%- else -%}\nFigura coleccionable\n{%- endif -%}"
+          }
         }
       },
       "block_order": [
@@ -62,11 +76,13 @@
         "title",
         "caption",
         "price",
+        "a6fb64ed-527b-4742-9a6f-6c4e8dac6c64",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "9e9f9e87-a66b-4ee6-9fc5-5ea7d343671e"
       ],
       "settings": {
         "enable_sticky_info": true,
