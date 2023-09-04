@@ -3,9 +3,9 @@
     "image_banner": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/brand-social-share.png",
+        "image": "shopify:\/\/shop_images\/banner-hero-sep-2023.png",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
