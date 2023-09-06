@@ -95,7 +95,7 @@
     "drawer_shadow_blur": 5,
     "badge_position": "bottom left",
     "badge_corner_radius": 40,
-    "sale_badge_color_scheme": "accent-2",
+    "sale_badge_color_scheme": "scheme-9d7f56f7-a143-444f-9f20-0926f7706678",
     "sold_out_badge_color_scheme": "inverse",
     "brand_image": "{{ shop.brand.logo }}",
     "social_facebook_link": "https:\/\/www.facebook.com\/elreinohobbystore",
@@ -210,6 +210,17 @@
           "button": "{{ shop.brand.colors.primary[0].background }}",
           "button_label": "{{ shop.brand.colors.secondary[0].background }}",
           "secondary_button_label": "{{ shop.brand.colors.secondary[0].foreground }}",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-9d7f56f7-a143-444f-9f20-0926f7706678": {
+        "settings": {
+          "background": "{{ shop.brand.colors.primary[0].background }}",
+          "background_gradient": "",
+          "text": "{{ shop.brand.colors.primary[0].foreground }}",
+          "button": "{{ shop.brand.colors.primary[0].foreground }}",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#121212",
           "shadow": "#121212"
         }
       }
