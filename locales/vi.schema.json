@@ -1856,7 +1856,7 @@
           "name": "Sản phẩm bổ sung",
           "settings": {
             "paragraph": {
-              "content": "Để chọn sản phẩm bổ sung, hãy thêm ứng dụng Search & Discovery. [Tìm hiểu thêm](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "Để chọn sản phẩm bổ sung, hãy thêm ứng dụng Search & Discovery. [Tìm hiểu thêm](https://help.shopify.com/manual/online-store/search-and-discovery/product-rxstarendations)"
             },
             "heading": {
               "label": "Tiêu đề"
@@ -3116,7 +3116,7 @@
           "label": "Số cột trên máy tính để bàn"
         },
         "paragraph__1": {
-          "content": "Đề xuất động sử dụng thông tin về đơn hàng và sản phẩm để thay đổi và cải thiện theo thời gian. [Tìm hiểu thêm](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "Đề xuất động sử dụng thông tin về đơn hàng và sản phẩm để thay đổi và cải thiện theo thời gian. [Tìm hiểu thêm](https://help.shopify.com/themes/development/rxstarended-products)"
         },
         "header__2": {
           "content": "Thẻ sản phẩm"
@@ -3141,7 +3141,7 @@
         },
         "show_rating": {
           "label": "Hiển thị thứ hạng sản phẩm",
-          "info": "Nếu muốn hiển thị thứ hạng, hãy thêm ứng dụng xếp hạng sản phẩm. [Tìm hiểu thêm](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "Nếu muốn hiển thị thứ hạng, hãy thêm ứng dụng xếp hạng sản phẩm. [Tìm hiểu thêm](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rxstarendations-section-settings)"
         },
         "header_mobile": {
           "content": "Bố cục trên thiết bị di động"

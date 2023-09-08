@@ -1856,7 +1856,7 @@
           "name": "Aanvullende producten",
           "settings": {
             "paragraph": {
-              "content": "Als je aanvullende producten wilt selecteren, voeg je de Search en Zichtbaarheid-app toe. [Meer informatie](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "Als je aanvullende producten wilt selecteren, voeg je de Search en Zichtbaarheid-app toe. [Meer informatie](https://help.shopify.com/manual/online-store/search-and-discovery/product-rxstarendations)"
             },
             "heading": {
               "label": "Koptekst"
@@ -3116,7 +3116,7 @@
           "label": "Aantal kolommen op desktopcomputers"
         },
         "paragraph__1": {
-          "content": "In de loop van de tijd worden veranderingen en verbeteringen doorgevoerd dankzij dynamische aanbevelingen, waarbij gebruik wordt gemaakt van informatie over bestellingen en producten. [Meer informatie](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "In de loop van de tijd worden veranderingen en verbeteringen doorgevoerd dankzij dynamische aanbevelingen, waarbij gebruik wordt gemaakt van informatie over bestellingen en producten. [Meer informatie](https://help.shopify.com/themes/development/rxstarended-products)"
         },
         "header__2": {
           "content": "Productkaart"
@@ -3141,7 +3141,7 @@
         },
         "show_rating": {
           "label": "Productbeoordeling weergeven",
-          "info": "Voeg een app voor productbeoordelingen toe om een beoordeling weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "Voeg een app voor productbeoordelingen toe om een beoordeling weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rxstarendations-section-settings)"
         },
         "header_mobile": {
           "content": "Opmaak op mobiele apparaten"

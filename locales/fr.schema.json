@@ -1855,7 +1855,7 @@
           "name": "Produits complémentaires",
           "settings": {
             "paragraph": {
-              "content": "Pour sélectionner des produits complémentaires, ajoutez l'application Search & Discovery. [En savoir plus](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "Pour sélectionner des produits complémentaires, ajoutez l'application Search & Discovery. [En savoir plus](https://help.shopify.com/manual/online-store/search-and-discovery/product-rxstarendations)"
             },
             "heading": {
               "label": "En-tête"
@@ -3116,7 +3116,7 @@
           "label": "Nombre de colonnes sur ordinateur"
         },
         "paragraph__1": {
-          "content": "Les recommandations dynamiques utilisent les informations relatives aux commandes et aux produits pour changer et s’améliorer au fil du temps. [En savoir plus](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "Les rxstarandations dynamiques utilisent les informations relatives aux commandes et aux produits pour changer et s’améliorer au fil du temps. [En savoir plus](https://help.shopify.com/themes/development/rxstarended-products)"
         },
         "header__2": {
           "content": "Carte de produit"
@@ -3141,7 +3141,7 @@
         },
         "show_rating": {
           "label": "Afficher la note du produit",
-          "info": "Pour afficher une note, ajoutez une application d’évaluation des produits. [En savoir plus](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "Pour afficher une note, ajoutez une application d’évaluation des produits. [En savoir plus](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rxstarendations-section-settings)"
         },
         "header_mobile": {
           "content": "Mise en page sur mobile"

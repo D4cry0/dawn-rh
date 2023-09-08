@@ -1856,7 +1856,7 @@
           "name": "Produtos complementares",
           "settings": {
             "paragraph": {
-              "content": "Para selecionar produtos complementares, adicione a aplicação Search & Discovery. [Saber mais](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "Para selecionar produtos complementares, adicione a aplicação Search & Discovery. [Saber mais](https://help.shopify.com/manual/online-store/search-and-discovery/product-rxstarendations)"
             },
             "heading": {
               "label": "Título"
@@ -3116,7 +3116,7 @@
           "label": "Número de colunas no computador"
         },
         "paragraph__1": {
-          "content": "As recomendações dinâmicas utilizam informações de encomenda e de produto para mudar e melhorar ao longo do tempo. [Saber mais](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "As recomendações dinâmicas utilizam informações de encomenda e de produto para mudar e melhorar ao longo do tempo. [Saber mais](https://help.shopify.com/themes/development/rxstarended-products)"
         },
         "header__2": {
           "content": "Cartão de produtos"
@@ -3141,7 +3141,7 @@
         },
         "show_rating": {
           "label": "Mostrar classificação do produto",
-          "info": "Para mostrar uma classificação, adicione uma aplicação de classificação de produto. [Saber mais](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "Para mostrar uma classificação, adicione uma aplicação de classificação de produto. [Saber mais](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rxstarendations-section-settings)"
         },
         "header_mobile": {
           "content": "Esquema para dispositivo móvel"

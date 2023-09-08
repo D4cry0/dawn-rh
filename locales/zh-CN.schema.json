@@ -1856,7 +1856,7 @@
           "name": "互补产品",
           "settings": {
             "paragraph": {
-              "content": "若要选择互补产品，请添加 Search & Discovery 应用。[了解详细信息](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "若要选择互补产品，请添加 Search & Discovery 应用。[了解详细信息](https://help.shopify.com/manual/online-store/search-and-discovery/product-rxstarendations)"
             },
             "heading": {
               "label": "标题"
@@ -3116,7 +3116,7 @@
           "label": "台式设备上的列数"
         },
         "paragraph__1": {
-          "content": "动态推荐使用订单和产品信息来随着时间而变化和改进。[了解详细信息](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "动态推荐使用订单和产品信息来随着时间而变化和改进。[了解详细信息](https://help.shopify.com/themes/development/rxstarended-products)"
         },
         "header__2": {
           "content": "产品卡"
@@ -3141,7 +3141,7 @@
         },
         "show_rating": {
           "label": "显示产品评分",
-          "info": "若要显示评分，请添加产品评分应用。[了解详细信息](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "若要显示评分，请添加产品评分应用。[了解详细信息](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rxstarendations-section-settings)"
         },
         "header_mobile": {
           "content": "移动设备布局"

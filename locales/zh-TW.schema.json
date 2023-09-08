@@ -1856,7 +1856,7 @@
           "name": "配套商品",
           "settings": {
             "paragraph": {
-              "content": "若要選取配套商品，請新增 Search & Discovery 應用程式。[瞭解詳情](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "若要選取配套商品，請新增 Search & Discovery 應用程式。[瞭解詳情](https://help.shopify.com/manual/online-store/search-and-discovery/product-rxstarendations)"
             },
             "heading": {
               "label": "標題"
@@ -3116,7 +3116,7 @@
           "label": "桌面版的欄數"
         },
         "paragraph__1": {
-          "content": "動態推薦會使用訂單和商品資訊，以隨著時間改變與改進。[瞭解詳情](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "動態推薦會使用訂單和商品資訊，以隨著時間改變與改進。[瞭解詳情](https://help.shopify.com/themes/development/rxstarended-products)"
         },
         "header__2": {
           "content": "商品卡片"
@@ -3141,7 +3141,7 @@
         },
         "show_rating": {
           "label": "顯示商品評等",
-          "info": "新增商品評等應用程式，即可顯示評等。[瞭解詳情](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "新增商品評等應用程式，即可顯示評等。[瞭解詳情](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rxstarendations-section-settings)"
         },
         "header_mobile": {
           "content": "行動版版面配置"

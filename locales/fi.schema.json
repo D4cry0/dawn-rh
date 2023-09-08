@@ -1855,7 +1855,7 @@
           "name": "Täydentävät tuotteet",
           "settings": {
             "paragraph": {
-              "content": "Lisää Search & Discovery -sovellus, jotta voit valita täydentäviä tuotteita. [Lisätietoja](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "Lisää Search & Discovery -sovellus, jotta voit valita täydentäviä tuotteita. [Lisätietoja](https://help.shopify.com/manual/online-store/search-and-discovery/product-rxstarendations)"
             },
             "heading": {
               "label": "Otsikko"
@@ -3116,7 +3116,7 @@
           "label": "Sarakkeiden määrä työpöydällä"
         },
         "paragraph__1": {
-          "content": "Dynaamisissa suosituksissa käytetään tilaus- ja tuotetietoja, jotta suositukset muuttuvat ja paranevat ajan myötä. [Lisätietoja](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "Dynaamisissa suosituksissa käytetään tilaus- ja tuotetietoja, jotta suositukset muuttuvat ja paranevat ajan myötä. [Lisätietoja](https://help.shopify.com/themes/development/rxstarended-products)"
         },
         "header__2": {
           "content": "Tuotekortti"
@@ -3141,7 +3141,7 @@
         },
         "show_rating": {
           "label": "Näytä tuotteen luokitus",
-          "info": "Näytä luokitus lisäämällä tuotearviointisovellus. [Lisätietoja](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "Näytä luokitus lisäämällä tuotearviointisovellus. [Lisätietoja](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rxstarendations-section-settings)"
         },
         "header_mobile": {
           "content": "Mobiilipohja"

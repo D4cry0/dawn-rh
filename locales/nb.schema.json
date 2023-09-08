@@ -1855,7 +1855,7 @@
           "name": "Komplimentære produkter",
           "settings": {
             "paragraph": {
-              "content": "Legg til Search & Discovery-appen for å velge komplimentære produkter. [Finn ut mer](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "Legg til Search & Discovery-appen for å velge komplimentære produkter. [Finn ut mer](https://help.shopify.com/manual/online-store/search-and-discovery/product-rxstarendations)"
             },
             "heading": {
               "label": "Overskrift"
@@ -3116,7 +3116,7 @@
           "label": "Antall kolonner på datamaskin"
         },
         "paragraph__1": {
-          "content": "Dynamiske anbefalinger bruker bestillings- og produktinformasjon til å endres og forbedres over tid. [Finn ut mer](https://help.shopify.com/themes/development/recommended-products)"
+          "content": "Dynamiske anbefalinger bruker bestillings- og produktinformasjon til å endres og forbedres over tid. [Finn ut mer](https://help.shopify.com/themes/development/rxstarended-products)"
         },
         "header__2": {
           "content": "Produktkort"
@@ -3141,7 +3141,7 @@
         },
         "show_rating": {
           "label": "Vis produktvurdering",
-          "info": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+          "info": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rxstarendations-section-settings)"
         },
         "header_mobile": {
           "content": "Mobillayout"

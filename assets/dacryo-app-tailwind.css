@@ -6,8 +6,4 @@
     .button:hover {
         @apply xshadow-2xl xtext-3xl;
     }
-
-    .product-card-wrapper:hover {
-        @apply xborder-red-500;
-    }
 }
