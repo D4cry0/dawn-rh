@@ -535,7 +535,7 @@
   },
   "customer_accounts": {
     "order_details": {
-      "log_in": "Iniciar sesión o crear cuenta, en cualquier opción solo se pediría confirmar el código que te llega a tu correo para acceder"
+      "log_in": "Iniciar sesión o crear cuenta"
     }
   }
 }
