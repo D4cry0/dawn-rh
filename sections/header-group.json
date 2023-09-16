@@ -11,24 +11,40 @@
             "text": "POR CIERRE, ENCUENTRA PRODUCTOS EN LIQUIDACIÓN",
             "link": "shopify:\/\/collections\/liquidacion"
           }
-        },
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "Envíos a todo México | Solo aceptamos Pagos en OXXO y Transferencias",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "24d12ef9-461a-475b-ac64-d89b6f89fc98",
-        "announcement-bar-0"
+        "24d12ef9-461a-475b-ac64-d89b6f89fc98"
       ],
       "settings": {
         "color_scheme": "inverse",
         "show_line_separator": true,
         "show_social": false,
         "auto_rotate": true,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "69ce8fb8-4005-4f71-a167-2c670fb312d8": {
+      "type": "announcement-bar",
+      "blocks": {
+        "sections--21093210292545__69ce8fb8-4005-4f71-a167-2c670fb312d8-announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "text": "Portal activo para realizar compras | Solo aceptamos Pagos en OXXO y Transferencias",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "sections--21093210292545__69ce8fb8-4005-4f71-a167-2c670fb312d8-announcement-1"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": false,
         "change_slides_speed": 5,
         "enable_country_selector": false,
         "enable_language_selector": false
@@ -55,6 +71,7 @@
   },
   "order": [
     "announcement-bar",
+    "69ce8fb8-4005-4f71-a167-2c670fb312d8",
     "header"
   ]
 }
