@@ -3,9 +3,9 @@
     "image_banner": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner-hero-sep-2023.png",
+        "image": "{{ shop.brand.cover_image }}",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -22,7 +22,7 @@
         "template--20909355565366__6070bd4c-b6e8-42bb-8567-f77a2faef7e0-featured_collection-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "coleccionables"
+            "collection": "figuras"
           }
         },
         "template--20909355565366__6070bd4c-b6e8-42bb-8567-f77a2faef7e0-featured_collection-2": {
@@ -30,11 +30,25 @@
           "settings": {
             "collection": "model-kits"
           }
+        },
+        "deca78c0-ac5b-4d18-b25b-3a7e85cfa191": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "juegos"
+          }
+        },
+        "a46b155f-0777-4c89-891e-80366363e218": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "modelismo"
+          }
         }
       },
       "block_order": [
         "template--20909355565366__6070bd4c-b6e8-42bb-8567-f77a2faef7e0-featured_collection-1",
-        "template--20909355565366__6070bd4c-b6e8-42bb-8567-f77a2faef7e0-featured_collection-2"
+        "template--20909355565366__6070bd4c-b6e8-42bb-8567-f77a2faef7e0-featured_collection-2",
+        "deca78c0-ac5b-4d18-b25b-3a7e85cfa191",
+        "a46b155f-0777-4c89-891e-80366363e218"
       ],
       "settings": {
         "title": "Productos",
