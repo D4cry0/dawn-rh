@@ -62,10 +62,93 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "c94412ac-89e0-45d9-b2be-45ecdcf8173e": {
+      "type": "collection-list",
+      "blocks": {
+        "12590d51-3d94-4794-bf7a-dc0829b23868": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "herramientas"
+          }
+        },
+        "0a37ebef-5c5b-4d25-9709-2304fe346912": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pigmentos"
+          }
+        },
+        "4a9d8bb1-a1f3-490c-8007-ee644ee4dc2f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pinceles-y-aerografo"
+          }
+        },
+        "d3fbf4ee-085c-413c-b1d5-79ec428dac05": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pintura-acrilica-agua"
+          }
+        },
+        "2b12bda5-689c-43d9-930b-4145f8542ca7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pintura-cera"
+          }
+        },
+        "d4524175-d975-4e10-805c-24164a989c6d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pintura-enamel-solvente"
+          }
+        },
+        "3a7e003d-8ef6-48bb-aa8a-528b040fe75d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pintura-lacquer-solvente"
+          }
+        },
+        "fb818754-40b4-4672-a066-3c9abd7ee353": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pintura-oleo"
+          }
+        },
+        "4050d772-f106-406f-8639-cf0bd59c54ed": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "texturas-y-vegetacion"
+          }
+        }
+      },
+      "block_order": [
+        "12590d51-3d94-4794-bf7a-dc0829b23868",
+        "0a37ebef-5c5b-4d25-9709-2304fe346912",
+        "4a9d8bb1-a1f3-490c-8007-ee644ee4dc2f",
+        "d3fbf4ee-085c-413c-b1d5-79ec428dac05",
+        "2b12bda5-689c-43d9-930b-4145f8542ca7",
+        "d4524175-d975-4e10-805c-24164a989c6d",
+        "3a7e003d-8ef6-48bb-aa8a-528b040fe75d",
+        "fb818754-40b4-4672-a066-3c9abd7ee353",
+        "4050d772-f106-406f-8639-cf0bd59c54ed"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
-    "6070bd4c-b6e8-42bb-8567-f77a2faef7e0"
+    "6070bd4c-b6e8-42bb-8567-f77a2faef7e0",
+    "c94412ac-89e0-45d9-b2be-45ecdcf8173e"
   ]
 }
