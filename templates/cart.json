@@ -7,6 +7,28 @@
         "padding_bottom": 36
       }
     },
+    "86780d64-9c7c-4ca2-8b4d-ddfee6b2f16a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21093210718529__86780d64-9c7c-4ca2-8b4d-ddfee6b2f16a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Los domingos se preparan envíos y se entregan a las paqueterías entre semana.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21093210718529__86780d64-9c7c-4ca2-8b4d-ddfee6b2f16a-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "right",
+        "content_alignment": "right",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "cart-footer": {
       "type": "main-cart-footer",
       "blocks": {
@@ -62,6 +84,7 @@
   },
   "order": [
     "cart-items",
+    "86780d64-9c7c-4ca2-8b4d-ddfee6b2f16a",
     "cart-footer",
     "featured-collection"
   ]
