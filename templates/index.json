@@ -16,6 +16,41 @@
         "show_text_below": false
       }
     },
+    "a42c2f78-980e-4a73-bcf3-4016d2d394ea": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21093210915137__a42c2f78-980e-4a73-bcf3-4016d2d394ea-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Avisos 28\/oct\/2023",
+            "heading_size": "h2"
+          }
+        },
+        "template--21093210915137__a42c2f78-980e-4a73-bcf3-4016d2d394ea-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "VER AVISOS",
+            "button_link": "shopify:\/\/pages\/avisos",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21093210915137__a42c2f78-980e-4a73-bcf3-4016d2d394ea-heading-1",
+        "template--21093210915137__a42c2f78-980e-4a73-bcf3-4016d2d394ea-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "6070bd4c-b6e8-42bb-8567-f77a2faef7e0": {
       "type": "collection-list",
       "blocks": {
@@ -134,6 +169,7 @@
   },
   "order": [
     "image_banner",
+    "a42c2f78-980e-4a73-bcf3-4016d2d394ea",
     "6070bd4c-b6e8-42bb-8567-f77a2faef7e0",
     "c94412ac-89e0-45d9-b2be-45ecdcf8173e"
   ]
