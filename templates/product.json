@@ -53,6 +53,12 @@
             "show_gift_card_recipient": true
           }
         },
+        "9e9f9e87-a66b-4ee6-9fc5-5ea7d343671e": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{%- if product.type == 'ModelKit' -%}\nModel Kit: Requiere ensamblarse y en algunos casos detallarse.\n{%- endif -%}"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -62,12 +68,6 @@
           "type": "share",
           "settings": {
             "share_label": "Compartir"
-          }
-        },
-        "9e9f9e87-a66b-4ee6-9fc5-5ea7d343671e": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "{%- if product.type == 'ModelKit' -%}\nModel Kit: Requiere ensamblarse y en algunos casos detallarse.\n{%- endif -%}"
           }
         }
       },
@@ -80,9 +80,9 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "9e9f9e87-a66b-4ee6-9fc5-5ea7d343671e",
         "description",
-        "share",
-        "9e9f9e87-a66b-4ee6-9fc5-5ea7d343671e"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
