@@ -31,7 +31,6 @@
       "blocks": {
         "sections--21093210292545__69ce8fb8-4005-4f71-a167-2c670fb312d8-announcement-1": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "SEGUIMOS EN SERVICIO PERO SOLO OFRECEREMOS LO QUE QUEDA DEL INVENTARIO",
             "link": ""
@@ -49,7 +48,6 @@
         "sections--21093210292545__69ce8fb8-4005-4f71-a167-2c670fb312d8-announcement-1",
         "b99605be-bb9a-4ac9-bd09-efdacc144090"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "inverse",
         "show_line_separator": true,
