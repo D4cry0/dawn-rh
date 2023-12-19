@@ -119,8 +119,9 @@
     "checkout_body_background_color": "#121212",
     "checkout_input_background_color_mode": "transparent",
     "checkout_sidebar_background_color": "#121212",
-    "checkout_accent_color": "#ff4739",
-    "checkout_button_color": "#ff4739",
+    "checkout_accent_color": "#f3f3f3",
+    "checkout_button_color": "#f3f3f3",
+    "checkout_error_color": "#dd1d1d",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
@@ -138,14 +139,6 @@
     "content_for_index": [
 
     ],
-    "blocks": {
-      "13768625480086291342": {
-        "type": "shopify:\/\/apps\/forms\/blocks\/forms\/8744a304-fcb1-4347-b211-bb6b4759a76a",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    },
     "color_schemes": {
       "background-1": {
         "settings": {
