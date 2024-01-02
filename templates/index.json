@@ -1,21 +1,5 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/banner-ofertas3.png",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "6070bd4c-b6e8-42bb-8567-f77a2faef7e0": {
       "type": "collection-list",
       "blocks": {
@@ -140,7 +124,6 @@
     }
   },
   "order": [
-    "image_banner",
     "6070bd4c-b6e8-42bb-8567-f77a2faef7e0",
     "c94412ac-89e0-45d9-b2be-45ecdcf8173e"
   ]
