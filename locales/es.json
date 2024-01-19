@@ -530,6 +530,9 @@
       "field_errors": {
         "address_address1_blank": "Calle, número exterior y\/o interiores",
         "address_address2_blank": "Colonia"
+      },
+      "alternative_payment_method_banner": {
+        "or": "o puede elegir mas metodos de pago en los pasos siguientes"
       }
     }
   },
