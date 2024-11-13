@@ -1,9 +1,18 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "6635ac66-88ae-4880-be28-e9a53d2ebe88": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/BannerBrand_1.png",
+        "image": "shopify://shop_images/BannerBrand_1.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -28,7 +37,7 @@
         "template--20909355565366__6070bd4c-b6e8-42bb-8567-f77a2faef7e0-featured_collection-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "model-kits"
+            "collection": "model-kits-y-accesorios"
           }
         },
         "d6db1fb4-d82b-4a5c-b53e-28eac00c82f5": {
@@ -126,7 +135,7 @@
         "4050d772-f106-406f-8639-cf0bd59c54ed"
       ],
       "settings": {
-        "title": "<a href=\"\/collections\/modelismo\" title=\"Modelismo\">Modelismo<\/a>",
+        "title": "<a href=\"/collections/modelismo\" title=\"Modelismo\">Modelismo</a>",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 3,
